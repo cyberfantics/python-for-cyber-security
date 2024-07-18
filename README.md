@@ -43,6 +43,7 @@ I'm excited to share that I've earned my **Python for Cyber Security** certifica
 - **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/mansoor-bukhari-77549a264/)
 - **Instagram**: [instagram.com](https://www.instagram.com/cyberfantics)
 - **FaceBook**: [facebook.com](https://www.facebook.com/mansoorbukhari860)
+  </br>
 Feel free to connect with me and explore my repositories. Let's collaborate and make the digital world safer!
 
 **Thank you for visiting my profile. Looking forward to connecting with you!**
